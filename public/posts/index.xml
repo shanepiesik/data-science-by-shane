@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shane Piesik</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Shane Piesik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first R post</title>
+      <link>/2020/02/2020-02-08-first-r-post/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/2020-02-08-first-r-post/</guid>
+      <description> Adding some other text.
+1+1 ## [1] 2 x_plus_one &amp;lt;- function(x) { return(x+1) } x_plus_one ## function(x) { ## return(x+1) ## } number_convert &amp;lt;- function(x) { return(as.character(x)) } number_convert(&amp;quot;9&amp;quot;) ## [1] &amp;quot;9&amp;quot; print(&amp;quot;Hello&amp;quot;) ## [1] &amp;quot;Hello&amp;quot;  print(&amp;quot;hello&amp;quot;) </description>
+    </item>
+    
+    <item>
+      <title>markdown post</title>
+      <link>/2020/02/2020-02-08-markdown-post/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/2020-02-08-markdown-post/</guid>
+      <description>print(&amp;#34;hello&amp;#34;) number_convert &amp;lt;- function(x) { return(as.character(x)) } number_convert(&amp;#34;9&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>

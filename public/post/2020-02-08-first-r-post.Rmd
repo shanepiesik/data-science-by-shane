@@ -1,0 +1,26 @@
+---
+title: first R post
+author: Shane Piesik
+date: '2020-02-08'
+slug: first-r-post
+categories: []
+tags: []
+author_link: ''
+lastmod: '2020-02-08T14:04:14-06:00'
+description: ''
+show_in_homepage: yes
+description_as_summary: no
+license: ''
+featured_image: ''
+featured_image_preview: ''
+comment: yes
+toc: no
+auto_collapse_toc: yes
+math: no
+---
+
+```{r}
+1+1
+```
+
+<!--more-->
