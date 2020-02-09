@@ -29,6 +29,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 pygmentsCodefences = true
 pygmentsStyle = "pygments"
 
+description = "Data science blog by Shane Piesik."
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
@@ -311,7 +313,7 @@ pygmentsStyle = "pygments"
   # Disqus Comment Config (https://disqus.com/)
   [params.disqus]
     # Disqus shortname to use Disqus in posts
-    shortname = "dillonzq"
+    shortname = "shanepiesik"
 
   # Gittalk Comment Config (https://github.com/gitalk/gitalk)
   [params.gitalk]
