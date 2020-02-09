@@ -212,7 +212,7 @@ pygmentsStyle = "pygments"
   [params.social]
     GitHub = "shanepiesik"
     Linkedin = "shanepiesik"
-    Twitter = "shanepiesik"
+    #Twitter = "shanepiesik"
     #Instagram = "shanepiesik"
     Email = "shane.piesik@gmail.com"
     #Facebook = "xxxx"
